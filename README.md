@@ -3,6 +3,7 @@
 I'm a digital creator known as **Made by Anto**.  
 Founder of **Aura**, a small italian online initiative focused on simplicity, collaboration, and creative expression.
 I'm italian 🇮🇹
+
 ---
 
 ## 💼 What I Do
