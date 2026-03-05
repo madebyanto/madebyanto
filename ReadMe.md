@@ -8,7 +8,7 @@ I'm italian 🇮🇹
 
 ## 💼 What I Do
 
-- 🌐 Build websites and platforms like [Aura+](https://app.aurastudioitalia.it) & [ShareMiiShot](https://github.com/madebyanto/sharemiishot).
+- 🌐 Build websites and platforms like [Aura](https://apps.aurastudioitalia.it) & [ShareMiiShot](https://github.com/madebyanto/sharemiishot).
 - 🧠 I create open-source projects, like Nyra (You can create your AI for free! [Learn more](https://github.com/madebyanto/nyra))
 
 ---
