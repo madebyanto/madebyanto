@@ -1,55 +1,141 @@
-# 👋 Hi, I'm Anto
+![Lucky Star banner](./luckystar-banner.webp)
+# hi, i'm anto!!
 
-I'm a digital creator known as **Made by Anto**.  
-Founder of **Aura**, a small italian online initiative focused on simplicity, collaboration, and creative expression.
-I'm italian 🇮🇹
+```text
+┌──────────────────────────────────────────────┐
+│  anto.py                                     │
+│                                              │
+│  status: probably rotting                    │
+│  location: idk where am i                    │
+│  sleep: deprecated                           │
+│  shower: last seen 69 years ago              │
+│  operating system: arch btw                  │
+│  sanity: 404                                 │
+└──────────────────────────────────────────────┘
+```
 
----
+I'm **Anto**.
 
-## 💼 What I Do
+I write code, use Arch Linux for reasons I cannot adequately explain, and occasionally convince myself that rewriting something from scratch will be faster than reading the documentation.
 
-- 🌐 Build websites and platforms like [Aura](https://apps.aurastudioitalia.it) & [ShareMiiShot](https://github.com/madebyanto/sharemiishot).
-- 🧠 I create open-source projects, like Nyra (You can create your AI for free! [Learn more](https://github.com/madebyanto/nyra))
+It usually isn't.
 
----
+## 🧠 things i somehow ended up doing
 
-## 🛠 Tech Skills
+* Made a tiny kernel because apparently using Linux wasn't complicated enough.
+* Wrote a bootloader in Assembly because I enjoy making my problems significantly harder.
+* Implemented filesystem stuff instead of going outside.
+* Built AI applications and then immediately wondered how the AI works underneath.
+* Run services on VPSes that I absolutely should not be responsible for.
+* Installed Hyprland and spent more time configuring it than actually using the computer.
+* Use Arch Linux. Yes, **that** Arch Linux LMAO LMAO LMAO I USE ARCH BTW XD XD XD
+* Have strong opinions about package managers for absolutely no reason.
+* Occasionally stare at a terminal for 40 minutes because I refuse to Google the error.
+* Start projects at 2 AM with the confidence of someone who definitely won't regret it tomorrow.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=flat&logo=sidequest&logoColor=white)
+## 🐧 my computer
 
----
+```bash
+$ fastfetch
 
-## 🌐 Socials:
+            /\            anto@arch
+           /  \           ---------
+          /    \          OS:        Arch Linux x86_64
+         _\     \         Kernel:    Linux 7.1.11-arch1-1
+        /        \        Uptime:    9 years
+       /          \       CPU:       AMD Ryzen 5 3550H (8) @ 3.70 GHz
+      /     __   \_\      Display    1920x1080 in 24", 75 Hz
+     /     /  \     \     Disk (/):  395,112 GiB / 369.20 GiB (101%) - ext4
+    /__,--'    '--,__\    Memory:    12.61 GiB/12.60 GiB
+```
 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@madebyanto.dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@madebyanto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anto@aurastudioitalia.it) 
+I like Linux because it lets me control my computer.
 
-Visit my [guns.lol](https://guns.lol/madebyanto) for all my socials & links!
+It also lets me spend three hours fixing something that worked perfectly before I touched it.
 
-## Website
-[Click here for my website!](https://anto.aurastudioitalia.it)
+A beautiful ecosystem fr..
 
----
+## 🧪 projects
 
-# 📊 GitHub Stats:
+### Piux
 
-![](https://github-readme-stats.vercel.app/api?username=madebyanto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=madebyanto&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyanto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+A completely unnecessary attempt to understand operating systems by making one.
 
----
+It has a bootloader, kernel, keyboard handling, commands, filesystem experiments and other things that could have been avoided by simply using Linux.
 
-### 🔝 Top Contributed Repo
+https://github.com/madebyanto/piux-kernel
 
-![](https://github-contributor-stats.vercel.app/api?username=madebyanto&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Aura
 
-[![](https://visitcount.itsvg.in/api?id=madebyanto&icon=6&color=7)](https://visitcount.itsvg.in)
+A collection of projects, websites, apps, services and questionable architectural decisions.
 
----
+Somewhere between a software studio and a folder called:
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/madebyanto) 
+```text
+final_final_v2_REAL_THIS_TIME/
+```
 
----
+https://autrastudioitalia.it
 
-# And yeah...
-I'm the one who brings the virus series on TikTok 🙃
+### Nyra (from Aura but important so its here yah)
+
+An AI project that started as an experiment and somehow became an actual application.
+
+Classic right? -_-
+
+https://nyra.aurastudioitalia.it
+
+## 💻 programming philosophy
+
+```text
+if it works:
+    don't touch it
+
+if it doesn't work:
+    touch everything
+
+if everything breaks:
+    blame linux
+
+if linux is innocent:
+    blame yourself
+
+if you still can't fix it:
+    rewrite it in rust
+```
+
+## 📚 currently learning
+
+Whatever random topic has managed to steal my attention this week.
+
+Could be:
+
+* CPU architecture
+* filesystems
+* networking
+* compilers
+* operating systems
+* cryptography
+* some completely unnecessary technical rabbit hole
+
+There is no roadmap.
+
+There is only **curiosity and poor time management**..
+
+## 🗿 final words
+
+I don't know everything.
+
+I don't even know most things.
+
+But give me enough time, a terminal, questionable amounts of caffeine and an error message I don't understand, and I'll probably figure something out.
+
+Eventually.
+
+```text
+$ exit
+
+bash: exit: you have projects unfinished
+```
+
+**oh. so im going back to the basement i guess 😔**
