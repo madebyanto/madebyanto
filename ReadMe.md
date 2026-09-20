@@ -63,7 +63,7 @@ A completely unnecessary attempt to understand operating systems by making one.
 
 It has a bootloader, kernel, keyboard handling, commands, filesystem experiments and other things that could have been avoided by simply using Linux.
 
-https://github.com/madebyanto/piux-kernel
+https://github.com/projectpiux
 
 ### Aura
 
