@@ -1,9 +1,9 @@
 {
- "key": "17ea3283",
- "stars": 10,
+ "key": "3976cfdc",
+ "stars": 12,
  "contributions": 316,
  "repos": 29,
- "followers": 81,
+ "followers": 84,
  "languages": [
   [
    "HTML",
@@ -11,7 +11,7 @@
   ],
   [
    "Rust",
-   431169
+   489098
   ],
   [
    "Kotlin",
@@ -160,7 +160,7 @@
    "url": "https://github.com/madebyanto/rinux",
    "text": "A Linux-like monolithic modular kernel written in Rust born to be the \"twin of Linux\"",
    "fork": false,
-   "stars": 3,
+   "stars": 5,
    "language": "Rust",
    "topics": [
     "linux",
@@ -175,7 +175,7 @@
    "url": "https://github.com/madebyanto/rinux",
    "text": "A Linux-like monolithic modular kernel written in Rust born to be the \"twin of Linux\"",
    "fork": false,
-   "stars": 3,
+   "stars": 5,
    "language": "Rust",
    "topics": [
     "linux",
