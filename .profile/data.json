@@ -1,0 +1,442 @@
+{
+ "key": "17ea3283",
+ "stars": 10,
+ "contributions": 316,
+ "repos": 29,
+ "followers": 81,
+ "languages": [
+  [
+   "HTML",
+   578793
+  ],
+  [
+   "Rust",
+   431169
+  ],
+  [
+   "Kotlin",
+   293441
+  ],
+  [
+   "JavaScript",
+   74395
+  ],
+  [
+   "CSS",
+   31371
+  ],
+  [
+   "Assembly",
+   7366
+  ],
+  [
+   "Python",
+   5284
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 3,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 7,
+    "day": 15,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 4,
+  "longest": 9
+ },
+ "pins": [
+  {
+   "name": "eos-to-arch",
+   "url": "https://github.com/madebyanto/eos-to-arch",
+   "text": "Converts system logos and system information from EndeavourOS to Arch.",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "passgen",
+   "url": "https://github.com/madebyanto/passgen",
+   "text": "Simple Python local password generator",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "aura-open-source-project",
+   "url": "https://github.com/AuraStudioItalia/aura-open-source-project",
+   "text": "Repository ufficiale di Aura Open Source Project",
+   "fork": false,
+   "stars": 2,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "rinux",
+   "url": "https://github.com/madebyanto/rinux",
+   "text": "A Linux-like monolithic modular kernel written in Rust born to be the \"twin of Linux\"",
+   "fork": false,
+   "stars": 3,
+   "language": "Rust",
+   "topics": [
+    "linux",
+    "rust",
+    "unix"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "rinux",
+   "url": "https://github.com/madebyanto/rinux",
+   "text": "A Linux-like monolithic modular kernel written in Rust born to be the \"twin of Linux\"",
+   "fork": false,
+   "stars": 3,
+   "language": "Rust",
+   "topics": [
+    "linux",
+    "rust",
+    "unix"
+   ]
+  },
+  {
+   "name": "eos-to-arch",
+   "url": "https://github.com/madebyanto/eos-to-arch",
+   "text": "Converts system logos and system information from EndeavourOS to Arch.",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "sharemiishot",
+   "url": "https://github.com/madebyanto/sharemiishot",
+   "text": "ShareMiiShot is a web service designed for Wii U/3DS for sharing images between consoles and devices such as phones or PCs.",
+   "fork": false,
+   "stars": 2,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "passtheyear",
+   "url": "https://github.com/madebyanto/passtheyear",
+   "text": "An open source Android app for tracking the school year",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "i-just-love-you-y",
+   "url": "https://github.com/madebyanto/i-just-love-you-y",
+   "text": "im sorry.",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "madebyanto",
+   "url": "https://github.com/madebyanto/madebyanto",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  },
+  {
+   "name": "rinux-website",
+   "url": "https://github.com/madebyanto/rinux-website",
+   "text": "Official website of Rinux.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "piux-minimal",
+   "url": "https://github.com/madebyanto/piux-minimal",
+   "text": "An Unix-like experimental kernel.",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "findthepackage",
+   "url": "https://github.com/madebyanto/findthepackage",
+   "text": "A CLI tool to list all installed packages on your Linux system",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "choose-a-linux-distro",
+   "url": "https://github.com/madebyanto/choose-a-linux-distro",
+   "text": "Choose a Linux distro with this seimple and friendly quiz!",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "wayde",
+   "url": "https://github.com/madebyanto/wayde",
+   "text": "A Wayland window manager for Linux written in Rust",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "passgen",
+   "url": "https://github.com/madebyanto/passgen",
+   "text": "Simple Python local password generator",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "aura-store-test",
+   "url": "https://github.com/madebyanto/aura-store-test",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "ma13-kernel",
+   "url": "https://github.com/madebyanto/ma13-kernel",
+   "text": "MY FIRST KERNEL AS AN 13 YEAR OLD PLS DONT JUDGE ME",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "account-aura",
+   "url": "https://github.com/madebyanto/account-aura",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "nintendari-chill-web",
+   "url": "https://github.com/madebyanto/nintendari-chill-web",
+   "text": "Repository ufficiale dei Nintendari Chill",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "nexora-browser",
+   "url": "https://github.com/madebyanto/nexora-browser",
+   "text": "Nexora è il browser ufficiale di Aura minimal-focused.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "aurastore",
+   "url": "https://github.com/madebyanto/aurastore",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "aura-launcher",
+   "url": "https://github.com/madebyanto/aura-launcher",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "old-aura",
+   "url": "https://github.com/madebyanto/old-aura",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "register",
+   "url": "https://github.com/madebyanto/register",
+   "text": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "anto-website",
+   "url": "https://github.com/madebyanto/anto-website",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "project-zen",
+   "url": "https://github.com/madebyanto/project-zen",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "nyra",
+   "url": "https://github.com/madebyanto/nyra",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "beta-aura-plus",
+   "url": "https://github.com/madebyanto/beta-aura-plus",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "aura-plus",
+   "url": "https://github.com/madebyanto/aura-plus",
+   "text": "Repository GitHub ufficiale di Aura+.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "stores.aura.place-priv-downloads",
+   "url": "https://github.com/madebyanto/stores.aura.place-priv-downloads",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "imb.sites.io",
+   "url": "https://github.com/madebyanto/imb.sites.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "pctool.aura",
+   "url": "https://github.com/madebyanto/pctool.aura",
+   "text": "Repository ufficiale del progetto (ormai chiuso) Aura Computer Management.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}

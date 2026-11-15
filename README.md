@@ -8,9 +8,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/madebyanto/rinux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rinux-dark.svg"><img src="assets/project-rinux-light.svg" width="49%" alt="rinux"></picture></a>&nbsp;<a href="https://github.com/madebyanto/eos-to-arch"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-eos-to-arch-dark.svg"><img src="assets/project-eos-to-arch-light.svg" width="49%" alt="eos-to-arch"></picture></a>
+<a href="https://github.com/madebyanto/eos-to-arch"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-eos-to-arch-dark.svg"><img src="assets/project-eos-to-arch-light.svg" width="49%" alt="eos-to-arch"></picture></a>&nbsp;<a href="https://github.com/madebyanto/passgen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-passgen-dark.svg"><img src="assets/project-passgen-light.svg" width="49%" alt="passgen"></picture></a>
 
-<a href="https://github.com/madebyanto/sharemiishot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sharemiishot-dark.svg"><img src="assets/project-sharemiishot-light.svg" width="49%" alt="sharemiishot"></picture></a>&nbsp;<a href="https://github.com/madebyanto/madebyanto"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-madebyanto-dark.svg"><img src="assets/project-madebyanto-light.svg" width="49%" alt="madebyanto"></picture></a>
+<a href="https://github.com/AuraStudioItalia/aura-open-source-project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-aura-open-source-project-dark.svg"><img src="assets/project-aura-open-source-project-light.svg" width="49%" alt="aura-open-source-project"></picture></a>&nbsp;<a href="https://github.com/madebyanto/rinux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rinux-dark.svg"><img src="assets/project-rinux-light.svg" width="49%" alt="rinux"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
