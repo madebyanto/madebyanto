@@ -28,6 +28,7 @@ I'm passionate about computer science and programming, and I love building thing
 | [**Aura**](https://github.com/AuraStudioItalia) | An Italian initiative for open-source Google alternatives | AGPLv3 |
 | [**Piux**](https://github.com/projectpiux) | An OS written in C | GPLv3 |
 | [**PassTheYear**](https://github.com/madebyanto/passtheyear) | An app to track the school year | AGPLv3 |
+| [**Rinux**](https://github.com/madebyanto/rinux) | "Rewriting" Linux in Rust | GPLv2 |
 
 ## 🛠️ Tech Stack
 
