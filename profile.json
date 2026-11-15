@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "login": "madebyanto",
+  "seed": "#5C7CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Anto",
+    "subtitle": "I'm passionate about computer science and programming, and I love building things and sharing them with the community!",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Italy"
+      },
+      {
+        "icon": "code",
+        "label": "HTML, CSS, Python, learning C & Rust"
+      },
+      {
+        "icon": "brand:figma",
+        "label": "Figma"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Love Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust (Learning)"
+          }
+        ]
+      },
+      {
+        "title": "Tools & Environments",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "I use Arch btw"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "echo-bot",
+      "tiny-weather",
+      "pixel-garden",
+      "dotfiles"
+    ],
+    "overrides": {
+      "pixel-garden": {
+        "text": ""
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/pqUvvuxkEB"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://tiktok.com/@madebyanto.sh"
+      },
+      {
+        "icon": "brand:gmail",
+        "url": "madebyanto-support.stretch647@passinbox.com"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://youtube.com/madebyanto"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/madebyanto?tab=repositories",
+        "style": "filled"
+      },
+      {
+        "icon": "brand:gmail",
+        "label": "Contact me via email",
+        "url": "madebyanto-support.stretch647@passinbox.com",
+        "style": "tonal"
+      },
+      {
+        "icon": "link_2",
+        "label": "Guns.lol",
+        "url": "https://guns.lol/madebyanto",
+        "style": "tonal"
+      }
+    ]
+  }
+}
