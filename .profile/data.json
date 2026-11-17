@@ -1,17 +1,17 @@
 {
- "key": "1a7ac9fd",
+ "key": "e964a5c6",
  "stars": 12,
- "contributions": 318,
+ "contributions": 321,
  "repos": 29,
- "followers": 83,
+ "followers": 82,
  "languages": [
   [
    "HTML",
-   578793
+   585446
   ],
   [
    "Rust",
-   489098
+   528745
   ],
   [
    "Kotlin",
@@ -27,7 +27,7 @@
   ],
   [
    "Assembly",
-   7366
+   7570
   ],
   [
    "Python",
@@ -116,11 +116,15 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 5,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
