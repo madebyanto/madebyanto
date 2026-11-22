@@ -1,8 +1,8 @@
 {
- "key": "8b755f69",
+ "key": "576d932",
  "stars": 12,
- "contributions": 323,
- "repos": 29,
+ "contributions": 326,
+ "repos": 30,
  "followers": 86,
  "languages": [
   [
@@ -11,7 +11,7 @@
   ],
   [
    "Rust",
-   528745
+   568008
   ],
   [
    "Kotlin",
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 3,
-    "day": 1,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 2,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 7,
-    "today": false
-   }
-  ],
   [
    {
     "c": 3,
@@ -141,10 +104,23 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 5,
     "day": 21,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -254,6 +230,15 @@
     "config",
     "github-config"
    ]
+  },
+  {
+   "name": "minish",
+   "url": "https://github.com/madebyanto/minish",
+   "text": "Minimal shell for Rinux",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
   },
   {
    "name": "rinux-website",
