@@ -1,17 +1,17 @@
 {
- "key": "ef479151",
+ "key": "9804fb01",
  "stars": 12,
- "contributions": 326,
+ "contributions": 327,
  "repos": 30,
- "followers": 87,
+ "followers": 86,
  "languages": [
+  [
+   "Rust",
+   609562
+  ],
   [
    "HTML",
    585446
-  ],
-  [
-   "Rust",
-   568008
   ],
   [
    "Kotlin",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 1,
     "day": 22,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 9
  },
  "pins": [
